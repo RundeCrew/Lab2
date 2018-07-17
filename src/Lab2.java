@@ -8,7 +8,7 @@ public class Lab2 {
 		double roomLength; 
 		double roomWidth;
 		double roomHeight;
-		char answer = 'y';
+		char answer = 'y'; // making this change because David told me to.
 		
 			System.out.println("Welcome to Grand Circus' Room Detail Generator!");
 		
